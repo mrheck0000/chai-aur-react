@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ReactJS In-Depth Tutorial Series
 
 Welcome to the comprehensive repository dedicated to teaching ReactJS in depth. This series covers not just the basics but dives deep into the intricacies of ReactJS to ensure that you emerge with a solid foundation and deep understanding of the most popular frontend library in the world.
@@ -59,3 +60,6 @@ A big thank you to the React community, Open Source contributors, and all the st
 ---
 
 _Made with ☕️ by HiteshChoudhary_
+=======
+test
+>>>>>>> e5844014635d8a93b8cd4758304d2ec6f9a2c9a4
